@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ia-n-d-vc-jvx-7-690.github.io/knowledge-base/sitemap.xml
